@@ -52,7 +52,7 @@ ex:te1 a prof:ResourceDescriptor ;
 ex:vi1 a prof:ResourceDescriptor ;
    dcterms:title "Diagram of DocPub1.0";
    dcterms:conformsTo dp:SVG-INSPEC ;
-   dcterms:format "application/SVG" ;
+   dcterms:format "image/svg+xml" ;
    prof:hasArtifact ex:VI1File ;
    prof:hasRole prof:specification .
 
